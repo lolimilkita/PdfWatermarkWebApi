@@ -57,3 +57,5 @@ nunit-*.xml
 .vspscc
 .vssscc
 .vs
+
+appsettings.json
