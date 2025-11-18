@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|solutionrelative:pdfwatermarkwebapi\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|solutionrelative:pdfwatermarkwebapi\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|solutionrelative:pdfwatermarkwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|solutionrelative:pdfwatermarkwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|solutionrelative:pdfwatermarkwebapi\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|solutionrelative:pdfwatermarkwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE1FDB7-3804-4A06-8C3C-A35C28F73DC2}|PdfWatermarkWebApi.Entities\\PdfWatermarkWebApi.Entities.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE1FDB7-3804-4A06-8C3C-A35C28F73DC2}|PdfWatermarkWebApi.Entities\\PdfWatermarkWebApi.Entities.csproj|solutionrelative:pdfwatermarkwebapi.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|solutionrelative:pdfwatermarkwebapi\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}|PdfWatermarkWebApi.Repository\\PdfWatermarkWebApi.Repository.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}|PdfWatermarkWebApi.Repository\\PdfWatermarkWebApi.Repository.csproj|solutionrelative:pdfwatermarkwebapi.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0499D43-9B4B-4E53-A55A-DEC499DC9058}|PdfWatermarkWebApi.Service\\PdfWatermarkWebApi.Service.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0499D43-9B4B-4E53-A55A-DEC499DC9058}|PdfWatermarkWebApi.Service\\PdfWatermarkWebApi.Service.csproj|solutionrelative:pdfwatermarkwebapi.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}|PdfWatermarkWebApi.Repository\\PdfWatermarkWebApi.Repository.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}|PdfWatermarkWebApi.Repository\\PdfWatermarkWebApi.Repository.csproj|solutionrelative:pdfwatermarkwebapi.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}|PdfWatermarkWebApi.Repository\\PdfWatermarkWebApi.Repository.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi.repository\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}|PdfWatermarkWebApi.Repository\\PdfWatermarkWebApi.Repository.csproj|solutionrelative:pdfwatermarkwebapi.repository\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}|PdfWatermarkWebApi.Repository\\PdfWatermarkWebApi.Repository.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi.repository\\dapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}|PdfWatermarkWebApi.Repository\\PdfWatermarkWebApi.Repository.csproj|solutionrelative:pdfwatermarkwebapi.repository\\dapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|c:\\dev\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\pdfwatermarkwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38239223-541B-42AE-A8AF-85DD7B1588E6}|PdfWatermarkWebApi\\PdfWatermarkWebApi.csproj|solutionrelative:pdfwatermarkwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Models\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi\\Models\\AuthRequest.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Models\\AuthRequest.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi\\Models\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:28:15.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:27:13.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi\\Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:26:40.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:37:59.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi.Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Repository\\UserRepository.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi.Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:08:48.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi.Service\\UserService.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Service\\UserService.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi.Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:05:51.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\ServiceRegistration.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:03:17.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi.Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi.Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:48:33.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Repository\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi.Repository\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Repository\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi.Repository\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:43:30.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dapper.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Repository\\Dapper.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi.Repository\\Dapper.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Repository\\Dapper.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi.Repository\\Dapper.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:37:39.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Entities\\User.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi.Entities\\User.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi.Entities\\User.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi.Entities\\User.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:31:38.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:24:01.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi\\appsettings.json",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\appsettings.json",
+              "RelativeToolTip": "PdfWatermarkWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T07:35:03.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "PdfWatermarkWebApi\\Program.cs",
+              "ToolTip": "C:\\Dev\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\PdfWatermarkWebApi\\Program.cs",
+              "RelativeToolTip": "PdfWatermarkWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:33:40.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

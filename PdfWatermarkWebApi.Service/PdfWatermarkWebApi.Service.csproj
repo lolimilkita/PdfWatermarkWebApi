@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PdfWatermarkWebApi.Entities\PdfWatermarkWebApi.Entities.csproj" />
+    <ProjectReference Include="..\PdfWatermarkWebApi.Repository\PdfWatermarkWebApi.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfWatermarkWebApi", "PdfWatermarkWebApi\PdfWatermarkWebApi.csproj", "{38239223-541B-42AE-A8AF-85DD7B1588E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfWatermarkWebApi.Entities", "PdfWatermarkWebApi.Entities\PdfWatermarkWebApi.Entities.csproj", "{DAE1FDB7-3804-4A06-8C3C-A35C28F73DC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfWatermarkWebApi.Repository", "PdfWatermarkWebApi.Repository\PdfWatermarkWebApi.Repository.csproj", "{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfWatermarkWebApi.Service", "PdfWatermarkWebApi.Service\PdfWatermarkWebApi.Service.csproj", "{F0499D43-9B4B-4E53-A55A-DEC499DC9058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38239223-541B-42AE-A8AF-85DD7B1588E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38239223-541B-42AE-A8AF-85DD7B1588E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38239223-541B-42AE-A8AF-85DD7B1588E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38239223-541B-42AE-A8AF-85DD7B1588E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE1FDB7-3804-4A06-8C3C-A35C28F73DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE1FDB7-3804-4A06-8C3C-A35C28F73DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE1FDB7-3804-4A06-8C3C-A35C28F73DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE1FDB7-3804-4A06-8C3C-A35C28F73DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4ADA17-D0B1-47A2-B45B-59875D1F8D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0499D43-9B4B-4E53-A55A-DEC499DC9058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0499D43-9B4B-4E53-A55A-DEC499DC9058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0499D43-9B4B-4E53-A55A-DEC499DC9058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0499D43-9B4B-4E53-A55A-DEC499DC9058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93AE966B-29B8-4BC4-9252-2F8242DA6450}
+	EndGlobalSection
+EndGlobal
